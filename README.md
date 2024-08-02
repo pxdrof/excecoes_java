@@ -8,4 +8,5 @@
     <li>-A data de saída deve ser maior que a data de entrada.
   </ul>
 </h1>
-![Captura de tela 2024-08-02 192631](https://github.com/user-attachments/assets/b96a5a7b-8eaa-486c-ade6-fc13215a4ea7)
+
+![Captura de tela 2024-08-02 192631](https://github.com/user-attachments/assets/6dbcc3b5-1c38-407a-80fb-03428ee4834e)
